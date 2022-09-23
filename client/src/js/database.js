@@ -23,7 +23,7 @@ export const putDb = async (content) => {
   const result = await request;
 };
 
-console.log(result);
+// console.log(result);
 
 // TODO: Add logic for a method that gets all the content from the database
 export const getDb = async () => {
